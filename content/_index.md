@@ -13,7 +13,7 @@ container management system {.fragment .fade-left}
 
 Runs & manages containerized applications on a cluster. {.fragment .fade-left}
 
---
+---
 
 ## Origin
 
@@ -23,13 +23,13 @@ Greek for
 - "pilot" or {.fragment .fade-up}
 - "governor" {.fragment .fade-up}
 
---
+---
 
 ### Founders
 
 ![Founders](./Founders.PNG =800x) 
 
---
+---
 
 
 ## History of kubernetes
@@ -51,7 +51,7 @@ Greek for
 - GKE
 - OKE
 
---
+---
 
 ### OnPrem
 
@@ -66,7 +66,3 @@ Greek for
 - kubernetes with k3s
 
 ---
-
-<!-- .slide: data-background-image="./kubernetes.png" data-background-size="300px" -->
-
-
