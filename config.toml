@@ -1,4 +1,4 @@
-baseURL = 'https://wizardly-lichterman-1650ba.netlify.app'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
