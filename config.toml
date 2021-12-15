@@ -8,3 +8,18 @@ theme = "reveal-hugo"
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[params.reveal_hugo]
+theme = "moon"
+highlight_theme = "solarized-dark"
+slide_number = true
+transition = "convex"
+progress = true
+transition_speed = "slow"
+background_transition = "concave"
+mouse_wheel = true
+#plugins = ["plugin/gallery/gallery.plugin.js"]
+
+
+# transition: 'concave', //none/fade/slide/convex/concave/zoom
+# backgroundTransition: 'default', //none/fade/slide/convex/concave/zoom  //

@@ -1,17 +1,26 @@
 +++
-title = "Famous Programming Quotes"
+title = "Kubernetes"
 outputs = ["Reveal"]
 +++
-
-# Welcome to my site
+{{< slide id="hello" background-video="video2.mp4" background-video-loop="true"  transition-speed="fast" >}}
+## Sharath Kumar 
 
 ---
 
+{{< slide id="hello" background-video="video1.mp4" background-video-loop="true"  transition-speed="fast" >}}
+
+# Kubernetes
+
+---
+
+{{< slide id="hello" background-video="video.mp4" background-video-loop="true"  transition-speed="fast" >}}
+
 ## What is Kubernetes
 
-container management system {.fragment .fade-left}
+{{% fragment fade-left %}}container management system{{% /fragment %}}
+ 
 
-Runs & manages containerized applications on a cluster. {.fragment .fade-left}
+Runs & manages containerized applications on a cluster. 
 
 ---
 
@@ -27,7 +36,7 @@ Greek for
 
 ### Founders
 
-![Founders](./Founders.PNG =800x) 
+![Founders](/Founders.PNG) 
 
 ---
 
